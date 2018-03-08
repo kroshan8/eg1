@@ -1,0 +1,40 @@
+body{
+  background: green;
+}
+.mainDiv{
+     background-color: yellow;
+     display: flex;
+     justify-content: space-around;
+     background-color: pink;
+     border: 3px solid red;
+
+   }
+
+ .sub1{
+   border: 1px solid black;
+   padding: 5px;
+   background-color: hotpink;
+   border-radius: 10px;
+   box-shadow: 2px 5px 0 0 black;
+ }
+ .sub2{
+   border: 1px solid black;
+   padding: 5px;
+   background-color: red;
+   border-radius: 10px;
+   box-shadow: 2px 5px 0 0 black;
+ }
+ .sub3{
+   border: 1px solid black;
+   padding: 5px;
+   background-color: watermelon;
+   border-radius: 10px;
+   box-shadow: 2px 5px 0 0 black;
+ }
+ body{
+   background: cyan;
+ }
+.image2{
+  height: 100px;
+  width: 100px;
+}
